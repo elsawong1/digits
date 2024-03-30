@@ -82,6 +82,8 @@ If you do not yet have an account on the system, you can register by clicking on
 
 Click on the Login link, then click on the Signin link to bring up the Sign In page which allows you to login:
 
+<img src="doc/Login.png">
+
 ### Home Page
 After successfully logging in, the system takes you to your home page. It is just like the landing page, but the NavBar contains links to list contact and add new contacts:
 
